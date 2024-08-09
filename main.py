@@ -1,4 +1,4 @@
-# Kaushik, 233050P, IT2153, Assignment 2
+
 
 from sorting_algorithms import *
 import datetime
