@@ -1,2 +1,1 @@
-# Sorting
-A python sorting system
+A python program for stationery inventory
